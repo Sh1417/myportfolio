@@ -1,6 +1,5 @@
 
-import { TbLetterF, TbLetterH, TbLetterI, TbLetterL, TbLetterO, TbLetterP, TbLetterR, TbLetterT} from "react-icons/tb";
-import { TbLetterS } from "react-icons/tb";
+import { TbLetterF, TbLetterI, TbLetterL, TbLetterO, TbLetterP, TbLetterR, TbLetterT} from "react-icons/tb";
 const Logo = ({ size = 30 }) => {
     return (
         <div className='flex'>

@@ -1,4 +1,4 @@
-import { FaBars, FaTimes, FaGithub, FaLinkedin } from 'react-icons/fa'
+import { FaBars, FaTimes, FaLinkedin } from 'react-icons/fa'
 import { BsFillPersonLinesFill } from 'react-icons/bs';
 import { HiOutlineMail } from 'react-icons/hi';
 import Logo from './Logo';

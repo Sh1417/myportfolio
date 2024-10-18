@@ -1,7 +1,7 @@
-import { FaHtml5, FaCss3Alt, FaReact, FaGithub, FaAngular, FaVuejs } from "react-icons/fa";
+import { FaHtml5, FaCss3Alt, FaGithub, FaAngular } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { DiNodejs } from "react-icons/di";
-import { SiMongodb, SiTailwindcss, SiFirebase, SiGraphql, SiBootstrap } from "react-icons/si";
+import { SiMongodb, SiGraphql, SiBootstrap } from "react-icons/si";
 const Skills = () => {
     return (
         <div id="skills" className='w-full h-screen bg-[#0a192f] text-gray-300'>
