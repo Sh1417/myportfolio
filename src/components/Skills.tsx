@@ -1,7 +1,7 @@
 import { FaHtml5, FaCss3Alt, FaGithub, FaAngular } from "react-icons/fa";
 import { IoLogoJavascript } from "react-icons/io5";
 import { DiNodejs } from "react-icons/di";
-import { SiMongodb, SiGraphql, SiBootstrap } from "react-icons/si";
+import { SiMongodb, SiGraphql, SiBootstrap, SiTailwindcss } from "react-icons/si";
 const Skills = () => {
     return (
         <div id="skills" className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -40,6 +40,10 @@ const Skills = () => {
 
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <SiBootstrap size={50} className="w-20 mx-auto" />
+                        <p className='my-4'>BOOTSTRAP</p>
+                    </div>
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <SiTailwindcss size={50} className="w-20 mx-auto" />
                         <p className='my-4'>BOOTSTRAP</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
