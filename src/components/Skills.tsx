@@ -44,7 +44,7 @@ const Skills = () => {
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <SiTailwindcss size={50} className="w-20 mx-auto" />
-                        <p className='my-4'>BOOTSTRAP</p>
+                        <p className='my-4'>TAILWIND</p>
                     </div>
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <FaGithub size={50} className="w-20 mx-auto" />
