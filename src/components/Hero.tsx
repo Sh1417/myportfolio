@@ -15,7 +15,7 @@ const Hero = () => {
                 <h1 className="text-4xl sm:text-7xl text-gray-300">Sharath H</h1>
                 <h2 className="text-4xl sm:text-7xl text-gray-400">I'm a Front End Developer!</h2>
                 <p className=" text-gray-500 py-4 max-w-[600px] text-justify ">
-                    I have a combined work experience of 3 years and 8 months with Angular and Javascript. Crafting sleek solutions and conquering bugs, this seasoned dev ensures projects shine!
+                    I have a combined work experience of 3 years and 10 months with Angular and Javascript. Crafting sleek solutions and conquering bugs, this seasoned dev ensures projects shine!
 
                 </p>
                 <div>

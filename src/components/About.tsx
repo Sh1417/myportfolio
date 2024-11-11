@@ -12,7 +12,7 @@ const About = () => {
                 </div>
                 <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
                     <div className='sm:text-right text-4xl font-bold'>
-                        <p>Hi! Nice to meet you. Please take a look around.</p>
+                        <p>Hi! Together, we’ll turn your vision into something real.</p>
                     </div>
                     <div>
                         <p>Imagine having a software virtuoso at your beck and call, dedicated to crafting exceptional digital solutions. From individuals and small businesses to large enterprise corporations, I specialize in developing software tailored to your unique needs. Whether you're seeking a streamlined application or a robust enterprise system, I'm here to transform your vision into reality. With me by your side, excellence is not just a goal—it's the standard</p>
